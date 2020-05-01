@@ -1,1 +1,1 @@
-# mythesis
+# My Thesis
